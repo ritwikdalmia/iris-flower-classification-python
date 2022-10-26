@@ -99,14 +99,10 @@ Languages and Tools
 ---
 
 
-<p align="center">
+
     <summary><b>🛠️&nbsp;&nbsp;Leetcode &nbsp;Stats</b></summary><br>
+    <p align="center">
     <img src="https://leetcode-stats.vercel.app/api?username=ritwikdalmia&theme=Light">
-
-
-
-
- 
 </p> 
 
 
