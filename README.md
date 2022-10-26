@@ -96,16 +96,11 @@ Languages and Tools
     
 </p>
 
----
+  <summary><b>🛠️&nbsp;&nbsp;Leetcode Profile Metrics</b></summary><br>
 
-
-
-    <summary><b>🛠️&nbsp;&nbsp;Leetcode &nbsp;Stats</b></summary><br>
-    <p align="center">
+<p align="center">
     <img src="https://leetcode-stats.vercel.app/api?username=ritwikdalmia&theme=Light">
-</p> 
-
-
+    </p>
 <!-- --------------------------------------------------GitHub Profile Metrics---------------------------------------------------- -->
 
 
