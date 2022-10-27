@@ -104,8 +104,9 @@ Languages and Tools
 <!-- --------------------------------------------------GitHub Profile Metrics---------------------------------------------------- -->
 
 
-  <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Metrics</b></summary><br>
+   <summary><b>🛠️&nbsp;&nbsp;GitHub Profile Metrics</b></summary><br>
     <p align="center"> <a href="https://metrics.lecoq.io/ritwikdalmia"><img src="https://metrics.lecoq.io/ritwikdalmia" alt="ritwikdalmia" /></a> </p>
+
 
 
 <!-- --------------------------------------------------GitHub Profile Trophy---------------------------------------------------- -->
